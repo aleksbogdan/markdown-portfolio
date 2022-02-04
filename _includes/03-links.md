@@ -1,1 +1,1 @@
-https://github.com/aleksbogdan/hello-github-actions
+[Github](https://github.com/aleksbogdan/hello-github-actions)
